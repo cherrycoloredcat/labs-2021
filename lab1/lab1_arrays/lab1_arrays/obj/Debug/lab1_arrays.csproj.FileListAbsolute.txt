@@ -1,0 +1,10 @@
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\bin\Debug\lab1_arrays.exe.config
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\bin\Debug\lab1_arrays.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\bin\Debug\lab1_arrays.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.csprojAssemblyReference.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.Properties.Resources.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.csproj.GenerateResource.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.csproj.CoreCompileInputs.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_arrays\lab1_arrays\obj\Debug\lab1_arrays.Form1.resources
