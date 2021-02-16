@@ -15,11 +15,13 @@ namespace lab1_arrays
 
         private void calculateButton_Click(object sender, EventArgs e)
         {
-            string[] rawNums = textBox.Text.Trim().Split(new char[] { ' ', '\r', '\n' });          // Формирование массива чисел из textBox
+            // Формирование массива чисел из textBox и конвертация в int
+
+            string[] rawNums = textBox.Text.Trim().Split(new char[] { ' ', '\r', '\n' });          
 
             try
             {
-                _numsToCalculate = (from num in rawNums where !string.IsNullOrWhiteSpace(num) select Convert.ToInt32(num)).ToArray();    // Конвертация в int
+                _numsToCalculate = (from num in rawNums where !string.IsNullOrWhiteSpace(num) select Convert.ToInt32(num)).ToArray();    
             }
             catch
             {
@@ -27,19 +29,23 @@ namespace lab1_arrays
                 return;
             }
 
+            // Вычисление среднего гармонического и подсчет результата
+
             float harmonicMean = calculateHarmonicMean();
 
             int amount = 0;
 
-            foreach (int num in _numsToCalculate)                       // Подсчет и вывод
+            foreach (int num in _numsToCalculate)
                 if (num < harmonicMean)
                     amount++;
 
-            MessageBox.Show("Среднее гармоническое - " + harmonicMean +
-                "\n\nКоличество элементов, удовлетворяющих условию - " + amount, "Результат");
+            MessageBox.Show("Среднее гармоническое: " + harmonicMean +
+                "\n\nКоличество элементов, удовлетворяющих условию: " + amount, "Результат");
         }
 
-        private float calculateHarmonicMean()           // Расчет среднего гармонического
+
+        // Расчет среднего гармонического  
+        private float calculateHarmonicMean()          
         {
             float sum = 0;
 

@@ -82,6 +82,7 @@ namespace lab1_arrays
             this.Controls.Add(this.calculateButton);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Form1";
             this.Text = "lab1: arrays";
             this.ResumeLayout(false);
