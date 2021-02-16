@@ -1,0 +1,10 @@
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\bin\Debug\lab1_strings.exe.config
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\bin\Debug\lab1_strings.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\bin\Debug\lab1_strings.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.csprojAssemblyReference.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.Properties.Resources.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.csproj.GenerateResource.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.csproj.CoreCompileInputs.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab1\lab1_strings\lab1_strings\obj\Debug\lab1_strings.FormStringReplace.resources
