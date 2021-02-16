@@ -13,6 +13,7 @@ namespace lab1_arrays
             InitializeComponent();
         }
 
+        // Вызывается событием нажатия кнопки "Посчитать"
         private void calculateButton_Click(object sender, EventArgs e)
         {
             // Формирование массива чисел из textBox и конвертация в int
