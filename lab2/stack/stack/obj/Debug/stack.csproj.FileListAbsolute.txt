@@ -1,0 +1,10 @@
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\bin\Debug\stack.exe.config
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\bin\Debug\stack.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\bin\Debug\stack.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.csprojAssemblyReference.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.Properties.Resources.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.csproj.GenerateResource.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\stack\stack\obj\Debug\stack.Form1.resources

@@ -1,0 +1,10 @@
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\bin\Debug\queue.exe.config
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\bin\Debug\queue.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\bin\Debug\queue.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.csprojAssemblyReference.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.Form.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.Properties.Resources.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.csproj.GenerateResource.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab3\queue\queue\obj\Debug\queue.pdb

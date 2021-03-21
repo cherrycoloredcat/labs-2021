@@ -1,0 +1,10 @@
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\bin\Debug\linked list.exe.config
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\bin\Debug\linked list.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\bin\Debug\linked list.pdb
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked list.csprojAssemblyReference.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked_list.Form1.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked_list.Properties.Resources.resources
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked list.csproj.GenerateResource.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked list.csproj.CoreCompileInputs.cache
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked list.exe
+D:\_Work\VisualStudio projects\КЭ-204-2\lab2\linked list\linked list\obj\Debug\linked list.pdb
