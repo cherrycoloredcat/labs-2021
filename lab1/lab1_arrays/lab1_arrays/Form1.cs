@@ -8,6 +8,7 @@ namespace lab1_arrays
     public partial class Form1 : Form
     {
         private int[] _numsToCalculate;
+
         public Form1()
         {
             InitializeComponent();

@@ -77,7 +77,7 @@ namespace linked_list
         // Поиск по пункту назначения
         private void buttonFindPlace_Click(object sender, EventArgs e)
         {
-            _linkedList.PrintList(textBoxList, Convert.ToInt32(textBoxMaxWeight.Text), null, textBoxSearchPlace.Text);
+            _linkedList.PrintList(textBoxList, Convert.ToInt32(textBoxMaxWeight.Text), place: textBoxSearchPlace.Text);
         }
 
         // Показать все записи
@@ -90,6 +90,7 @@ namespace linked_list
     public class LinkedList
     {
         public Node first;
+
 
         public void AddNode(Node node)
         {
@@ -148,8 +149,6 @@ namespace linked_list
 
                 while (j != null)
                 {
-
-                    Console.WriteLine("a");
 
                     if (type == SortType.Date && i.DateTime > j.DateTime
                         || type == SortType.Place && i.Place.CompareTo(j.Place) > 0)
